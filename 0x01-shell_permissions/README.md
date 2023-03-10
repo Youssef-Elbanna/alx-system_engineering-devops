@@ -1,1 +1,1 @@
-Shell Permissions
+SHELL Project
